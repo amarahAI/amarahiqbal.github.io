@@ -2,9 +2,7 @@
 
 ---
 
-### My Achievements
-
-#### I am very Passionate about anything i undertake, going an extra mile of what is required. I have attached a few glimpse of my achievements during my academics. When I'm not solving problems, I spend time to keep myself healthy, travel, and explore the undiscovered or trying my hand at cooking.
+### My Achievements <br> I am very Passionate about anything i undertake, going an extra mile of what is required. I have attached a few glimpse of my achievements during my academics. When I'm not solving problems, I spend time to keep myself healthy, travel, and explore the undiscovered or trying my hand at cooking.
 <!--[Project 1 Title](/sample_page)-->
 <img src="images/achievements.jpg?raw=true"/>
 
