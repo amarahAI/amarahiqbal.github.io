@@ -2,28 +2,28 @@
 
 ---
 
-### My Achievements <br> I am very Passionate about anything i undertake, going an extra mile of what is required. I have attached a few glimpse of my achievements during my academics. When I'm not solving problems, I spend time to keep myself healthy, travel, and explore the undiscovered or trying my hand at cooking.
+### My Achievements <br> ###I am very Passionate about anything i undertake, going an extra mile of what is required. I have attached a ###few glimpse of my achievements during my academics. When I'm not solving problems, I spend time to keep myself healthy, travel, and ###explore the undiscovered or trying my hand at cooking.
 <!--[Project 1 Title](/sample_page)-->
 <img src="images/achievements.jpg?raw=true"/>
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Predicting Credit Card Approvals](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Uncover the Trendiest Topics in ML Research.](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Self Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Predicting Credit Card Approvals](http://example.com/)
+- [Uncover the Trendiest Topics in ML Research](http://example.com/)
+- [Exploring the NYC Airbnb Market](http://example.com/)
+- [CiFAR-10-Images-Classification](http://example.com/)
+- [Exploratory Data Analysis](http://example.com/)
 
 ---
 
