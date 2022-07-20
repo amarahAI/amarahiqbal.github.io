@@ -6,6 +6,10 @@
 <!--[Project 1 Title](/sample_page)-->
 <img src="images/achievements.jpg?raw=true"/>
 
+#### Project 1 -- [Geographic changes in tree-fungal partnerships](https://github.com/amarahAI/Temple_EDA/)
+<em>Species distribution modeling, climate change forecasts, data harmonization, spatial analysis, & visualization</em>
+<img src="images/TreeFungal_overlap.cover.png?raw=true"/>
+
 
 ---
 [Predicting Credit Card Approvals](/pdf/sample_presentation.pdf)
